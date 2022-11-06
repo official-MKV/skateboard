@@ -1,0 +1,17 @@
+.videos_most_watched{
+display: flex;
+flex-direction: row;
+flex-flow: row wrap;
+justify-content: space-between;
+width:100%;
+margin-left: 5px;
+height: auto;
+}
+
+.video_content{
+    color:white;
+    font-size: 30px;
+    font-weight: 600;
+
+
+}
